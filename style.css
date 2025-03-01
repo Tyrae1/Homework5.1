@@ -1,0 +1,33 @@
+h1 {
+    font-size: 48px;
+    text-align: center;
+    color: red;
+}
+.class {
+    color:blue;
+}
+#unique{
+    color:rgb(245, 0, 245);
+    font-size: 12px;
+}
+[type="password"]{
+    border: solid;
+}
+
+*{
+    /* weight - 0000 */
+}
+
+p{
+    /* weight - 0001 */
+}
+
+.class{
+    /* weight - 0010 */
+}
+
+#id{
+    /* weight - 0100 */
+}
+
+/* inline style /* weight - 1000 */
