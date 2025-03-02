@@ -100,6 +100,11 @@ input{
     font-weight: 500; 
     line-height: 16px;
 }
+.imglogin{
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+}
 footer{
     width: 500px; 
     height: 10px; 
